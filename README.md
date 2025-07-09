@@ -20,9 +20,9 @@
 
 ---
 
-## 🖼️ Design Prototype
+## 🎯 Project Overview
 
-The full UI/UX design for Pet Rental Hub is available in the [Figma file](./PetRentalHub_Figma_File.fig) included in this repo.
+This repository contains the **UI/UX design prototype** for the HIVEWORKZ platform, created using [Figma](https://www.figma.com). It includes key screens, components, and user flows for the web application.
 
 > 💡 *Open the file using [Figma](https://www.figma.com/) to explore our interactive wireframes, user flows, and design components.*
 >
