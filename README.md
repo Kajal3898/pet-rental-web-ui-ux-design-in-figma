@@ -25,6 +25,8 @@
 The full UI/UX design for Pet Rental Hub is available in the [Figma file](./PetRentalHub_Figma_File.fig) included in this repo.
 
 > 💡 *Open the file using [Figma](https://www.figma.com/) to explore our interactive wireframes, user flows, and design components.*
+>
+> <a href="https://freeimage.host/i/F1mUa5b"><img src="https://iili.io/F1mUa5b.md.png" alt="F1mUa5b.md.png" border="0"></a>
 
 ---
 
@@ -49,8 +51,8 @@ This project is licensed under the MIT License.
 ## 📫 Contact
 
 Got questions or feedback? Reach us at 
-✉️ Email: kajalnandi.3898@gmail.com
-🧑‍💼 LinkedIn: linkedin.com
+- ✉️ Email: kajalnandi.3898@gmail.com
+- 🧑‍💼 LinkedIn: linkedin.com
 
 
 ---
