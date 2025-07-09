@@ -48,7 +48,10 @@ This project is licensed under the MIT License.
 
 ## 📫 Contact
 
-Got questions or feedback? Reach us at **hello@petrentalhub.com**
+Got questions or feedback? Reach us at 
+✉️ Email: kajalnandi.3898@gmail.com
+🧑‍💼 LinkedIn: linkedin.com
+
 
 ---
 
